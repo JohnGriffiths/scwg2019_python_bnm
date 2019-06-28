@@ -36,9 +36,17 @@ If nothing happens that's great! Now open up your favourite browser and enter th
   https://localhost:8888
 ```
 
-You're ready to go!
+Finally: open up a terminal in jupyter, clone the repo for this course, and cd into there
+
+```bash
+git clone https://github.com/JohnGriffiths/scwg2019_python_bnm
+```
+
+Ok, you're ready to go!
 
 ***
+
+
 
 
 ### If you're running locally on your machine
