@@ -1,6 +1,7 @@
 # Scientific Computing Working Group Workshop on large-scale brain network modelling in Python
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jerdra/scwg2018_python_neuroimaging/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JohnGriffiths/scwg2019_python_bnm/master)
+
 
 ### Developed by
 - John Griffiths
